@@ -26,8 +26,8 @@ Tic-tac-toe or Xs and Os is a game for two players who take turns marking the sp
 
 ## Features
 
-- Interactive User Interface
-- Dynamic song change
-- Smooth gaming experience
-- Reset functionality
+- Interactive User Interface.
+- Dynamic song change.
+- Smooth gaming experience.
+- Reset functionality.
 
