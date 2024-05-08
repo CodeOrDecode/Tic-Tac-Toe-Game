@@ -7,7 +7,7 @@ Tic-tac-toe or Xs and Os is a game for two players who take turns marking the sp
 # Image
 
 
-<img src="https://github.com/CodeOrDecode/Spotify-Clone/assets/110326357/9f29a238-3ead-4309-a67f-73927b05596b" width="650">
+<img src="https://github.com/CodeOrDecode/Tic-Tac-Toe-Game/assets/110326357/3c282893-b5f8-450d-8075-d925f984476f" width="650">
 
 
 
